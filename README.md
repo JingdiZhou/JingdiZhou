@@ -8,17 +8,17 @@
 ## 🧐 About
 
 - 🏄‍ I'm undergraduate from China University Of Geosciences(Wuhan), if you want to kown more about me, please visit my homepage  [https://JingdiZhou.github.io](https://JingdiZhou.github.io).
-- 😄 I have a great interest in Machine Learning, Reinforcement Leadning, CS architecture and Embedded System
+- 😄 I have a great interest in Machine Learning, Reinforcement Learning, CS architecture and Embedded System
 - 🔭 My skill includes: C/C++, Python, Go, Java
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 I'm currently looking for long-term research intern position in area above, and willingly pursue a PhD in the future.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
+- 💬 feel free to contact me
 - 📫 How to reach me: message me at [Email](candymzjd@gmail.com)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- ⚡ Fun fact: I love meeting new people and exporing new technology!
+- 💬 
 
 <h2>Connect with me </h3>
     <p>
