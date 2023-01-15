@@ -22,10 +22,9 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="http://www.linkedin.com/in/jingdi-zhou-a4a980226"><img src="https://img.shields.io/badge/-Gift%20Jingdi Zhou%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=http://www.linkedin.com/in/jingdi-zhou-a4a980226" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+        <a href="http://www.linkedin.com/in/jingdi-zhou-a4a980226"><img src="https://img.shields.io/badge/-Jingdi Zhou-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=http://www.linkedin.com/in/jingdi-zhou-a4a980226" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/candymskye"><img src="https://img.shields.io/badge/-candymskye-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/candymskye" alt="Twitter Badge"></a>
+
    </p>
 
 ![Jingdi Zhou's github stats](https://github-readme-stats.vercel.app/api?username=JingdiZhou&show_icons=true)
