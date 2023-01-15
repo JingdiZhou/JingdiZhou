@@ -17,7 +17,7 @@
 
 - 💬 feel free to contact me
 - 📫 How to reach me: 
--   - School email: candymzjd@cug.edu.cnn
+    - School email: candymzjd@cug.edu.cnn
     - Personal email: candymzjd@gmail.com
     - WeChat: Haileezjdmiumiu 
 - ⚡ Fun fact: I love meeting new people and exporing new technology! Just like one of my favourite [youtuber](https://www.youtube.com/@torrespit666)'s motto saying--always exploring!
