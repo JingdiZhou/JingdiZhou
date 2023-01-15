@@ -16,7 +16,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 feel free to contact me
-- 📫 How to reach me: message me at **candymzjd@gmail.com**
+- 📫 How to reach me: message me at **candymzjd@gmail.com(personal)** or **candymzjd@cug.edu.cn(school)**
 - ⚡ Fun fact: I love meeting new people and exporing new technology!
 - 💬 
 
