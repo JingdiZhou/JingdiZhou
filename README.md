@@ -20,9 +20,9 @@
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
-h2>Connect with me </h3>
+<h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Jingdi Zhou%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=http://www.linkedin.com/in/jingdi-zhou-a4a980226" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@lauragift_
 /"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
