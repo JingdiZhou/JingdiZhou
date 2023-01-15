@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=JingdiZhou" alt="vistors" />
 </p>
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) 
+[![Twitter Badge](https://img.shields.io/badge/-@candymskye-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/candymskye)](https://twitter.com/candymskye) 
 
   
 ## 🧐 About
