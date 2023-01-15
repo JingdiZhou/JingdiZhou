@@ -27,7 +27,16 @@
 
    </p>
 
+<details>
 ![Jingdi Zhou's github stats](https://github-readme-stats.vercel.app/api?username=JingdiZhou&show_icons=true)
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/JingdiZhou/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JingdiZhou&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 
 <!--
 **sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
