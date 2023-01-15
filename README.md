@@ -21,7 +21,7 @@
 - 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+![Jingdi Zhou's github stats](https://github-readme-stats.vercel.app/api?username=JingdiZhou&show_icons=true)
 
 <!--
 **sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
