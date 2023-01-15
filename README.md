@@ -1,9 +1,8 @@
-
-## Hi there 👋,
-
-### I'm Jingdi Zhou, I am a community guy who loves tech and see myself as product enthoziast.
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Jingdi Zhou</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> Hi there! I'm Jingdi Zhou</h3>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=JingdiZhou" alt="vistors" />
+</p>
 
   
 ## 🧐 About
