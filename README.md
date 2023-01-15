@@ -7,11 +7,11 @@
   
 ## 🧐 About
 
-- 🏄‍ I'm undergraduate from China University Of Geosciences(Wuhan),if you want to kown more about me ,please visit my homepage  [https://JingdiZhou.github.io](https://JingdiZhou.github.io)
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
+- 🏄‍ I'm undergraduate from China University Of Geosciences(Wuhan), if you want to kown more about me, please visit my homepage  [https://JingdiZhou.github.io](https://JingdiZhou.github.io).
+- 😄 I have a great interest in Machine Learning, Reinforcement Leadning, CS architecture and Embedded System
+- 🔭 My skill includes: C/C++, Python, Go, Java
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+- 👯 I'm currently looking for long-term research intern position in area above, and willingly pursue a PhD in the future.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
