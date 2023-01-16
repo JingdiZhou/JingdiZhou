@@ -13,11 +13,11 @@
 - 🌱 I believe I'm a self-motivated student ,always be curious in new area, hoping one day what I have done can make a difference in the world
 - 👯 I'm currently looking for long-term research intern position in area above, and willingly pursue a PhD in the future.
 
-# <img src="https://github.com/JingdiZhou/JingdiZhou/image/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JingdiZhou/JingdiZhou/image/Earth.gif" width="24px">
+## <img src="https://github.com/JingdiZhou/JingdiZhou/image/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JingdiZhou/JingdiZhou/image/Earth.gif" width="24px">
 
 - 💬 feel free to contact me
 - 📫 How to reach me: 
-    - School email: candymzjd@cug.edu.cnn
+    - School email: candymzjd@cug.edu.cn
     - Personal email: candymzjd@gmail.com
     - WeChat: Haileezjdmiumiu 
 - ⚡ Fun fact: I love meeting new people and exporing new technology! Just like one of my favourite [youtuber](https://www.youtube.com/@torrespit666)'s motto saying--always exploring!
