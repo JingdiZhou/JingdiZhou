@@ -13,7 +13,7 @@
 - 🌱 I believe I'm a self-motivated student ,always be curious in new area, hoping one day what I have done can make a difference in the world
 - 👯 I'm currently looking for long-term research intern position in area above, and willingly pursue a PhD in the future.
 
-## <img src="https://github.com/JingdiZhou/JingdiZhou/image/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JingdiZhou/JingdiZhou/image/Earth.gif" width="24px">
+# <img src="https://github.com/JingdiZhou/JingdiZhou/image/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/JingdiZhou/JingdiZhou/image/Earth.gif" width="24px">
 
 - 💬 feel free to contact me
 - 📫 How to reach me: 
