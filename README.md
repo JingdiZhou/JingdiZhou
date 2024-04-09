@@ -7,7 +7,7 @@
   
 ## 🧐 About
 
-- 🏄‍ I'm undergraduate from China University Of Geosciences(Wuhan), if you want to kown more about me, please visit my homepage  [https://JingdiZhou.github.io](https://JingdiZhou.github.io).
+- 🏄‍ I'm a engineer of Firmware....
 - 😄 I have a great interest in Machine Learning, Reinforcement Learning, CS architecture and Embedded System
 - 🔭 My skill includes: C/C++, Python, Java
 - 🌱 I believe I'm a self-motivated student ,always be curious in new area, hoping one day what I have done can make a difference in the world
