@@ -18,16 +18,8 @@
 - 💬 feel free to contact me
 - 📫 How to reach me: 
     - Personal email: candymzjd@gmail.com
-    - WeChat: Haileezjdmiumiu 
 - ⚡ Fun fact: I love meeting new people and exporing new technology! Just like one of my favourite [youtuber](https://www.youtube.com/@torrespit666)'s motto saying--always exploring!
 
-
-<h2>Connect with me </h3>
-    <p>
-        <a href="http://www.linkedin.com/in/jingdi-zhou-a4a980226"><img src="https://img.shields.io/badge/-Jingdi Zhou-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=http://www.linkedin.com/in/jingdi-zhou-a4a980226" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/candymskye"><img src="https://img.shields.io/badge/-candymskye-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/candymskye" alt="Twitter Badge"></a>
-
-   </p>
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
